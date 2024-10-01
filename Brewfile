@@ -1,0 +1,18 @@
+brew "docker"
+brew "git"
+brew "zsh"
+brew "nvm"
+brew "docker-compose"
+
+# Apps
+brew cask "postman"
+brew cask "robo3t"
+brew cask "slack"
+brew cask "visual-studio-code"
+brew cask "arc-browser"
+brew cask "google-chrome"
+brew cask "notion"
+brew cask "orbstack"
+brew cask "openvpn-connect"
+brew cask "tableplus"
+brew cask "webstorm"
